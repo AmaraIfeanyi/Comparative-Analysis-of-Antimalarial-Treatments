@@ -28,7 +28,6 @@ This project addresses that need by providing a comparative analysis of antimala
 - Provide an interactive platform for exploring treatment data.
 
 ---
-
 ##Dataset Overview 
 
 The dataset contains information collected from multiple antimalarial treatment studies and includes variables such as:
@@ -45,7 +44,7 @@ The dataset contains information collected from multiple antimalarial treatment 
 
 ---
 
-##Dashboard Components
+##Dashboard https://github.com/AmaraIfeanyi/Comparative-Analysis-of-Antimalarial-Treatments/commit/adedce29e65379176db671e930cb1f0d947f1e54
 
 Key Performance Indicators (KPIs)
 
